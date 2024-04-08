@@ -1,7 +1,7 @@
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/Ashish55js/StudyNotion.git
+    git clone https://github.com/pandeyashutosh02/StudyNotion.git
     ```
 
 1. Install the required packages.
